@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="bt_share_picker_label">Bluetooth</string>
+  <string name="unknown_device">Onbekannten Apparat</string>
   <string name="bt_enable_cancel">Ofbriechen</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="download_fail_ok">OK</string>
